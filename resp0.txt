@@ -1,0 +1,62 @@
+Last login: Mon Mar 11 15:38:02 on ttys000
+You have mail.
+MacBook-Pro-de-Coco:~ Jorge$ history
+    1  sudo pip3 install numpy
+    2  c
+    3  sudo pip3 install scipy
+    4  sudo pip3 install functools
+    5  sudo pip3 install matplotlib
+    6  sudo pip3 install functools
+    7  git GUI
+    8  git GUI
+    9  dir
+   10  ls
+   11  git clone https://github.com/iic2115/syllabus
+   12  desktop
+   13  Desktop 
+   14  cd Desktop
+   15  git clone https://github.com/iic2115/syllabus
+   16  cd Syllabus
+   17  ls
+   18  git add
+   19  git add.
+   20  git add."
+   21  git add
+   22  git add.
+   23  git add *
+   24  git add*
+   25  git add
+   26  cd
+   27  cd Syllabus
+   28  git clone https://github.com/iic2115/syllabus
+   29  git add*
+   30  git add *
+   31  git GUI
+   32  git clone https://github.com/iic2115/syllabus
+   33  giy GUI
+   34  git GUI
+   35  git clone https://github.com/jdcortes1/IIC2115.git
+   36  cd Desktop
+   37  git clone https://github.com/jdcortes1/IIC2115.git
+   38  git clone https://github.com/jdcortes1/coco1.git
+   39  git clone https://github.com/jdcortes1/coco2
+   40  git add *
+   41  cd coco2
+   42  git add *
+   43  git commit -m "Lo logré, LOL"
+   44  git pull
+   45  git clone https://github.com/jdcortes1/coco2
+   46  ls Desktop
+   47  ls coco2
+   48  git add *
+   49  cd Desktop
+   50  ls
+   51  git add *
+   52  cd Desktop
+   53  cd coco2
+   54  git add *
+   55  git commit -m "Subiendo un texto lol"
+   56  git push
+   57  git pull
+   58  history
+MacBook-Pro-de-Coco:~ Jorge$ 
